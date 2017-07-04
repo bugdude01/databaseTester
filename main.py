@@ -1,4 +1,4 @@
-from database.mysql import MySQLDatabase
+from database.mymysql import MySQLDatabase
 from settings import db_config
 
 """
